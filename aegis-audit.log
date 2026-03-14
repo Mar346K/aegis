@@ -1,0 +1,1 @@
+{"timestamp": "2026-03-14T21:57:06.492979Z", "event_type": "Data Exfiltration Prevented", "action": "BLOCKED", "source_ip": "127.0.0.1", "source_port": 56429, "destination": "Unknown", "reason": "Heuristic Engine: Critical Signature Match"}
