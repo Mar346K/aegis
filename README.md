@@ -6,9 +6,6 @@ Aegis is a highly concurrent, memory-safe network sidecar designed for Data Exfi
 
 By utilizing Python (`asyncio`) for non-blocking network routing and a Rust (`PyO3`) compiled engine for CPU-bound multi-pattern matching, Aegis achieves high-speed traffic inspection while entirely bypassing the Python Global Interpreter Lock (GIL).
 
-## 🚀 The Demo
-
-*(Placeholder: Insert your 90-second Loom GIF here showing a split screen: a script attempting to curl a fake AWS key, and Aegis instantly terminating it with a 403 Forbidden.)*
 
 ## 🧠 Core Architecture Highlights
 
